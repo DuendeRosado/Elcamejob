@@ -1,0 +1,1 @@
+Use create-react-app and connect to backend endpoints.
